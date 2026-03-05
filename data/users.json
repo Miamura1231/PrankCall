@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1769710745441",
+    "email": "drac0sha123@yandex.ru",
+    "passwordHash": "$2a$10$6PhYFIntZGbiyzHe0SpuXOgaVKM/PTZkKcSf5AUSEf7GwDMkM2D7y",
+    "name": "Tovi Gospodin",
+    "createdAt": "2026-01-29T18:19:05.442Z"
+  },
+  {
+    "id": "1770019467359",
+    "email": "oleshkatru@gmail.com",
+    "passwordHash": "$2a$10$Z4iyr/.9lQNiENAFAcnttOww4VG6YIFWxtBszJRNavhsFmTILAIK2",
+    "name": "2318",
+    "verified": false,
+    "verifyCodeHash": "$2a$10$7YThCO4cmamVixmkrnQyDOFUadrqd9eyS7.DuJdVcz5Ug1bAbrnRW",
+    "verifyCodeExpiresAt": 1770020067430,
+    "verifyCodeAttempts": 0,
+    "createdAt": "2026-02-02T08:04:27.359Z"
+  },
+  {
+    "id": "1770019705867",
+    "email": "q1w2e3r46500@yandex.ru",
+    "passwordHash": "$2a$10$Xq7z6oygvE9LuUturW2ilu2KkLUixdPyBRiMuwz2kJTxifTRd4uxC",
+    "name": "2318",
+    "verified": false,
+    "verifyCodeHash": "$2a$10$gIQnx70KEsjbZnpqoq0cWONoZX7ZYBWAZxAwWzcCKXql35FoCI192",
+    "verifyCodeExpiresAt": 1770020305932,
+    "verifyCodeAttempts": 0,
+    "createdAt": "2026-02-02T08:08:25.867Z"
+  }
+]

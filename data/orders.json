@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1769709687199",
+    "prankType": "Долг ЖКХ",
+    "phone": "+7 977 883 23 18",
+    "schedule": "now",
+    "message": "123",
+    "price": 99,
+    "status": "pending",
+    "createdAt": "2026-01-29T18:01:27.199Z"
+  },
+  {
+    "id": "1770029972751",
+    "prankType": "Лотерея",
+    "phone": "+79778832318",
+    "schedule": "now",
+    "message": "",
+    "victimName": "Трухин Олег Игоревич",
+    "relation": "",
+    "hardness": "hard",
+    "price": 149,
+    "status": "pending",
+    "createdAt": "2026-02-02T10:59:32.751Z"
+  },
+  {
+    "id": "1770031491855",
+    "prankType": "Опрос",
+    "phone": "+79778832318",
+    "schedule": "now",
+    "message": "",
+    "victimName": "Трухин Олег Игоревич",
+    "relation": "",
+    "hardness": "medium",
+    "price": 199,
+    "status": "pending",
+    "createdAt": "2026-02-02T11:24:51.855Z"
+  },
+  {
+    "id": "1770312557534",
+    "prankType": "Опрос",
+    "phone": "+79778832318",
+    "schedule": "now",
+    "message": "",
+    "victimName": "Трухин Олег Игоревич",
+    "relation": "",
+    "hardness": "medium",
+    "price": 199,
+    "status": "pending",
+    "createdAt": "2026-02-05T17:29:17.534Z"
+  },
+  {
+    "id": "1770312877623",
+    "prankType": "Опрос",
+    "phone": "+79778832318",
+    "schedule": "now",
+    "message": "",
+    "victimName": "Трухин Олег Игоревич",
+    "relation": "",
+    "hardness": "medium",
+    "price": 199,
+    "status": "pending",
+    "createdAt": "2026-02-05T17:34:37.623Z"
+  }
+]
